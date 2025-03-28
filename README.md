@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Parth Gupta
+- 🎓 Computer Engineering student | Backend & Database Enthusiast
+- 💡 Skilled in Java, OOP, MySQL, and Spring Boot
+- 🚀 Passionate about building scalable and efficient applications
+- 🔍 Always exploring new technologies and improving my skills
+- 🌱 I’m currently learning Spring Framework
+- ⚡ Fun fact: I debug more than I code, and I'm surprisingly okay with that.
