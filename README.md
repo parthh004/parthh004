@@ -5,3 +5,4 @@
 - 🔍 Always exploring new technologies and improving my skills
 - 🌱 I’m currently learning Spring Framework
 - ⚡ Fun fact: I debug more than I code, and I'm surprisingly okay with that.
+- 👀 Also check my temp-profile which I have used for learning and experimenting.
